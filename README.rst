@@ -1,20 +1,18 @@
-BrachioGraph - the cheapest, simplest possible pen-plotter
+brachiograph (armwriter)
 ==========================================================
+the brachiograph is a ultra-cheap pen plotter that can be built with minimal skills. at it's heart is a raspberry pi zero and some custom python software that drives 3 servo motors. the mechanical hardware is built from 2 popsicle sticks, a clothespin holding a pen, and some hot glue. everything is attached together with a mini breadboard.
 
-`BrachioGraph <https://www.brachiograph.art/>`_ is an ultra-cheap (total cost of materials: ~€14) plotter that can be built with minimal skills.
+![brachiograph layout](images/readme/brachiograph.png)
+*brachiograph layout*
 
-At its heart is a Raspberry Pi Zero and some relatively simple custom software, driving three servo motors.
-
-The mechanical hardware can be built from nothing but two sticks, a pen or pencil and some glue. No tools are required.
-
-Almost everything required can be found in a desk or kitchen drawer. The entire device can be built with no special skills in about an hour.
-
-
-.. image:: docs/images/readme_combined_image.png
-    :width: 100%
+demo
+------------
+![brachiograph demo](images/readme/brachiograph.mov)
+*brachiograph demo*
 
 
-Documentation
+
+documentation
 -------------
+`complete documentation for the project, with detailed instructions on how to build and use it <https://www.brachiograph.art/>`_
 
-`Complete documentation for the project, with detailed instructions on how to build and use it <https://www.brachiograph.art/>`_
